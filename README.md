@@ -1,6 +1,6 @@
 <h1 align="center">Projeto GTA</h1> 
 
-<p align="center">Projeto home page do jogo GTA 5</p>
+<p align="center">Projeto página inicial do site do jogo GTA 5</p>
 
 [<img src="./page-gta.gif" alt="página inicial do jogo gta 5">]
 
@@ -25,6 +25,6 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ por <a href="https://www.instagram.com/phtec_informatica?igsh=ems1YmJyMzY5cnls">PHtec Informática</a>
+Feito por: <a href="https://www.instagram.com/phtec_informatica?igsh=ems1YmJyMzY5cnls">PHtec Informática</a>
 
 # Projeto GTA 
